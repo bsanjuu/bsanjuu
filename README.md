@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Im Sanju.</br>
-I deal Android mobile app development and design.</br>
+I Work on Android and Web Developemt</br>
 
 
 </br>Social: [Instagram](https://www.instagram.com/nsanju0413/) [Twitter](https://twitter.com/nsanju0413) 
