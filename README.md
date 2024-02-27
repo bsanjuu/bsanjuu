@@ -63,7 +63,7 @@
 
 ## Top Open Source -
 
-[![PythonAum](https://github-readme-stats.vercel.app/api/pin/?username=nsanju0413&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nsanju0413/PythonAum)
+[![PythonAum](https://github-readme-stats.vercel.app/api/pin/?username=nsanju0413&repo=PythonAum&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nsanju0413/PythonAum)
 [![Buggargani Readme](https://github-readme-stats.vercel.app/api/pin/?username=nsanju0413&repo=nsanju0413&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nsanju0413/nsanju0413)
 
 <p align="left">
