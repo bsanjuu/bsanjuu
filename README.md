@@ -5,7 +5,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey, I am
-                <b><a target="_blank" href="https://www.bsanju.in">Buggargani Sanjeevlu</a></b>
+                <b><a target="_blank" href="https://www.bsanju.in">Sanjeevlu Buggargani</a></b>
         </samp>
 </h3>
 
