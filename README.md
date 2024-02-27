@@ -103,4 +103,4 @@
 
 ## My activity:
 
-![contrib graph](./profile-3d-contrib/profile-green.svg)
+![contrib graph](./profile-3d-contrib/profile-green-animate.svg)
