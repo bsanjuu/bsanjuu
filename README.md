@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <a href="https://nsanju0413.com" target="blank">
+ <a href="https://bsanju.in" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nsanju0413" />
  </a>
  <a href="https://linkedin.com/in/nsanju0413 target="_blank">
@@ -56,15 +56,19 @@
 
 ## Use To Code
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
 
 <br/>
 
-## Top Open Source -
+## Top Open Source
 
 [![PythonAum](https://github-readme-stats.vercel.app/api/pin/?username=nsanju0413&repo=PythonAum&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nsanju0413/PythonAum)
 [![Buggargani Readme](https://github-readme-stats.vercel.app/api/pin/?username=nsanju0413&repo=nsanju0413&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nsanju0413/nsanju0413)
