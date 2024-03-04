@@ -31,6 +31,22 @@
  <a href="https://instagram.com/bsanju2024" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="nsanju0413" />
  </a>
+ <a href="SNAPCHAT_PROFILE_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" alt="Snapchat" />
+</a>
+
+<a href="MEDIUM_PROFILE_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
+<a href="HACKERRANK_PROFILE_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank" />
+</a>
+
+<a href="HACKEREARTH_PROFILE_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Hackerearth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="Hackerearth" />
+</a>
+
 
   </a> 
 </p>
