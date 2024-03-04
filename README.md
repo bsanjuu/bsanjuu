@@ -3,22 +3,21 @@
 </a>
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey, I am
-                <b><a target="_blank" href="https://www.bsanju.in">Sanjeevlu Buggargani</a></b>
+<h3 align="center">I am <b><a target="_blank" href="https://www.bsanju.in">Sanjeevlu Buggargani</a></b>
         </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Sanjeevlu+Buggargani">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Sanjeevlu+Buggargani"> Google Me</a>
     <br>
   </samp>
 </p>
 
 <p align="center">
  <a href="https://bsanju.in" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nsanju0413" />
+   
+  <img src="https://img.shields.io/badge/SB-Website-brightgreen" alt="nsanju0413" />
  </a>
  <a href="https://linkedin.com/in/nsanju0413 target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nsanju0413"/>
