@@ -19,7 +19,7 @@
    
   <img src="https://img.shields.io/badge/SB-Website-brightgreen" alt="nsanju0413" />
  </a>
- <a href="https://linkedin.com/in/nsanju0413 target="_blank">
+ <a href="https://linkedin.com/in/nsanju0413" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nsanju0413"/>
  </a>
  <a href="https://dev.to/nsanju0413" target="_blank">
