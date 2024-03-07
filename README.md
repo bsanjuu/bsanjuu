@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
- <a href="https://bsanju.in" target="blank">
+ <a href="https://www.bsanju.in" target="blank">
    
   <img src="https://img.shields.io/badge/SB-Website-brightgreen" alt="nsanju0413" />
  </a>
