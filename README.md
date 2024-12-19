@@ -3,16 +3,10 @@
 </a>
 
 <!-- Intro  -->
-<h3 align="center">I am <b><a target="_blank" href="https://www.bsanju.in">Sanjeevlu Buggargani</a></b>
+<h3 align="center">I am <b><a target="_blank" href="https://www.bsanju.in">Sanjeevlu B</a></b>
         </samp>
 </h3>
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Sanjeevlu+Buggargani"> Google Me</a>
-    <br>
-  </samp>
-</p>
 
 <p align="center">
  <a href="https://www.bsanju.in" target="blank">
