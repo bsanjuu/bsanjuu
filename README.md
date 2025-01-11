@@ -54,7 +54,7 @@
   <br/>
  🌐 &emsp; Exploring the vast world of technology and innovation<br/><br/>
  🛠️ &emsp; Building the future, one line of code at a time!<br/><br/>
- 📧 &emsp; Reach me anytime: fastbootsanju@gmail.com<br/><br/>
+
  
 </p>
 
