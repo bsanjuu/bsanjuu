@@ -78,11 +78,11 @@
 
 ## Top Open Source
 
-[![PythonAum](https://github-readme-stats.vercel.app/api/pin/?username=bsanju&repo=PythonAum&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bsanju/PythonAum)
-[![Buggargani Readme](https://github-readme-stats.vercel.app/api/pin/?username=bsanju&repo=bsanju&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bsanju/nsanju0413)
+[![PythonAum](https://github-readme-stats.vercel.app/api/pin/?username=bsanjuu&repo=PythonAum&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bsanjuu/PythonAum)
+[![Buggargani Readme](https://github-readme-stats.vercel.app/api/pin/?username=bsanjuu&repo=bsanjuu&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bsanjuuu/nsanju0413)
 
 <p align="left">
-  <a href="https://github.com/bsanju?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/bsanjuu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -90,14 +90,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/bsanju">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsanju&theme=radical&border=7F3FBF&background=0D1117" alt="Buggargani's GitHub streak"/>
+  <a href="https://github.com/bsanjuu">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsanjuu&theme=radical&border=7F3FBF&background=0D1117" alt="Buggargani's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/bsanju">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsanju&theme=radical" alt="Buggargani's GitHub Contribution"/>
+  <a href="https://github.com/bsanjuu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsanjuu&theme=radical" alt="Buggargani's GitHub Contribution"/>
   </a>
 </p>
 
