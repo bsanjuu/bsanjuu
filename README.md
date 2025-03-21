@@ -1,13 +1,9 @@
-<a href="https://komarev.com/ghpvc/?username=bsanju">
+<a href="https://komarev.com/ghpvc/?username=nsanju0413">
   <img align="right" src="https://komarev.com/ghpvc/?username=nsanju0413&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<!-- Intro  -->
-<h3 align="center">I am <b><a target="_blank" href="https://www.bsanju.in">Sanjeevlu B</a></b>
-        </samp>
-</h3>
 
-<!-- About Section -->
+<h3 align="center">I am <b><a target="_blank" href="https://www.bsanju.in">Sanjeevlu B</a></b></h3>
 
 # About me
 
@@ -35,7 +31,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsanjuu&theme=radical&border=7F3FBF&background=0D1117" alt="Buggargani's GitHub streak"/>
   </a>
 </p>
-
-## My activity:
-
-![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
+</p>  
